@@ -1,0 +1,26 @@
+/* Basic styles for your site */
+
+body {
+    background-color: #D67A22; /* orange-ish background */
+    font-family: Arial, sans-serif; /* clean font */
+    color: white; /* text color */
+    text-align: center; /* centers stuff */
+    margin: 0; /* removes default margins */
+    padding: 0;
+}
+
+h1 {
+    color: white;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    max-width: 80%;
+    height: auto;
+    margin: 20px 0;
+}
