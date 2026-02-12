@@ -1,18 +1,20 @@
 /* Basic styles for your site */
 
 body {
-    background-color: #D67A22; /* orange-ish background */
-    font-family: Arial, sans-serif; /* clean font */
-    color: white; /* text color */
-    text-align: center; /* centers stuff */
-    margin: 0; /* removes default margins */
+    background-color: #D67A22;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin: 0;
     padding: 0;
 }
 
+
 h1 {
-    color: white;
+    font-family: 'Press Start 2P', cursive;
+    color: yellow;
     text-decoration: underline;
     margin-top: 30px;
+    text-shadow: 0 0 8px red;
 }
 
 p {
